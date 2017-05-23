@@ -18,8 +18,8 @@ avatar: "/img/nambari.jpg"
 # List of links in the navigation bar
 navbar-links:
   Home: "https://nambari.github.io/"
-  Logistics: "https://nambari.github.io/logistics/"
-  Schedule: "https://nambari.github.io/schedule/"
+  Logistics: "https://nambari.github.io/logistics"
+  Schedule: "https://nambari.github.io/schedule"
 
 # --- Footer options --- #
 author:

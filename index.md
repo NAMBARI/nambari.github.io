@@ -30,7 +30,7 @@ Ann Mwangi, Senior Lecturer, Moi University School of Medicine
 
 
 
-  <a class="btn btn-intro btn-lg" href="https://nambari.github.io/schedule/">The Schedule</a>
+  <a class="btn btn-intro btn-lg" href="https://nambari.github.io/schedule">The Schedule</a>
 </div>
 
 
