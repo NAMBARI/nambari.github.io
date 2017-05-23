@@ -1,14 +1,14 @@
 {
     "collab_server" : "",
-    "contents" : "---\nlayout: page\ntitle: PHP 2511: Applied Regression Analysis\n---\n\n\n\n<div class=\"main-explain-area jumbotron\">\n\n\nThis is the course site for PHP 2560: Statistical Programming with R. This course is part of the core sequence of courses in the <a href=\"https://www.brown.edu/academics/public-health/biostatistics/educational-programs/masters-program\">Biostatistics Master's Program</a> at Brown University.\n\n<div style=\"text-align: center;\">\n  <a class=\"btn btn-intro btn-lg\" href=\"http://php2560.com/syllabus/\">The Syllabus</a>\n</div>\n\n\n</div>\n\n\n\n\n\n\n<div class=\"main-explain-area jumbotron\">\n\n<h1> Announcements</h1>\n\n\n\n<ol style=\"list-style-type: decimal\">\n<li>We will not have class on <strong>April 25, 2017</strong></li>\n<li>We will have 2 additional classes scheduled.\n<ol style=\"list-style-type: lower-alpha\">\n<li><strong><em>April 24, 2017</em></strong> from 2-5pm Room 700</li>\n<li><strong><em>May 1, 2017</em></strong> from 2-4pm Room 718</li>\n</ol></li>\n</ol>\n</div>\n",
+    "contents" : "---\nlayout: page\ntitle: PHP 2511: Applied Regression Analysis\n---\n\n\n\n<div class=\"main-explain-area jumbotron\">\n\n<div style=\"text-align: center;\">\n\n<strong  style=\"font-size: 125%;\">\nIntroduction to R Programming for Biostatistics\n\nData Management, Regression Modeling and Survival Analysis\n</strong>\n\nAdam Sullivan, Assistant Professor of Biostatistics, Brown University\n\nJoseph Hogan, Professor of Biostatistics, Brown University\n\nAnn Mwangi, Senior Lecturer, Moi University School of Medicine\n\n\n\n\n\n  <a class=\"btn btn-intro btn-lg\" href=\"http://php2560.com/syllabus/\">The Syllabus</a>\n</div>\n\n\n</div>\n\n\n\n\n\n\n<div class=\"main-explain-area jumbotron\">\n\n<div style=\"text-align: center;\">\n19-22 June 2017\nAMPATH / Moi University School of Medicine\nNoble Conference Center\nEldoret, Kenya\n\n\n</div>\n</div>\n",
     "created" : 1495566889604.000,
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "2935798011",
+    "hash" : "436011381",
     "id" : "B3630841",
-    "lastKnownWriteTime" : 1492532631,
-    "last_content_update" : 1492532631,
+    "lastKnownWriteTime" : 1495571990,
+    "last_content_update" : 1495571990909,
     "path" : "C:/Users/adam_/Dropbox (Personal)/Brown/NAMBARI/website/index.md",
     "project_path" : "index.md",
     "properties" : {
