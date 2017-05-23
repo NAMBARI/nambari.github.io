@@ -18,12 +18,8 @@ avatar: "/img/nambari.jpg"
 # List of links in the navigation bar
 navbar-links:
   Home: "https://nambari.github.io/"
-  Syllabus: "http://php2560.com/syllabus"
-  Pre-Class: "http://php2560.com/preclass"
-  In-Class: "http://php2560.com/inclass"
-  Shiny Project: "http://php2560.com/project"
-  DataCamp Course: "https://www.datacamp.com/courses/1118/"
-  Contact: "http://php2560.com/contact"
+  Logistics: "https://nambari.github.io/logistics/"
+  
 
 # --- Footer options --- #
 author:

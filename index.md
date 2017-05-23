@@ -15,17 +15,22 @@ Introduction to R Programming for Biostatistics
 Data Management, Regression Modeling and Survival Analysis
 </strong>
 <br>
+<br>
+<br>
+<br>
 Adam Sullivan, Assistant Professor of Biostatistics, Brown University
 <br>
 Joseph Hogan, Professor of Biostatistics, Brown University
 <br>
 Ann Mwangi, Senior Lecturer, Moi University School of Medicine
 <br>
+<br>
+<br>
+<br>
 
 
 
-
-  <a class="btn btn-intro btn-lg" href="http://php2560.com/syllabus/">The Syllabus</a>
+  <a class="btn btn-intro btn-lg" href="https://nambari.github.io/schedule/">The Schedule</a>
 </div>
 
 
