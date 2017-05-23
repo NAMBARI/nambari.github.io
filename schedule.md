@@ -8,7 +8,7 @@ published: true
 
 # DAILY SCHEDULE (subject to change)
 
-## Monday: Basics of Data in R?
+## Monday: Basics of Data in R!
 
 | ------------- | ----------------------|
 | 8:00 - 9:00   |    Registration       |
@@ -18,4 +18,17 @@ published: true
 | 11:00 - 12:45 |      Getting Data in R | 
 | 1:00 - 2:30   |          Lunch | 
 | 2:30 - 4:00   |   Case Study: Data Cleaning | 
+| 4:00          |               Tea | 
+
+
+## Tuesday: Summarizing and Vizualizing Data in R!
+
+| ------------- | ----------------------|
+| 9:00 - 10:30  |    Summarizing Data in R |
+|               |    Displaying Data  |
+|               |    Presentations |
+| 10:30 - 11:00 |       Tea | 
+| 11:00 - 12:45 |      Graphics in R | 
+| 1:00 - 2:30   |          Lunch | 
+| 2:30 - 4:00   |   Case Study: Exploration of Cleaned Data | 
 | 4:00          |               Tea | 
