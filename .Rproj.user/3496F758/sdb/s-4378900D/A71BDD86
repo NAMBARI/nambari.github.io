@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "---\ntitle: \"Webscraping in R: Indeed\"\nauthor: \"\"\ndate: \"\"\noutput:\n  revealjs::revealjs_presentation:\n    theme: solarized\n    self_contained: true\n    transition: none\n    reveal_options:\n        slideNumber: true\n    highlight: pygments\n    center: true\n---\n\n  \n```{r setup, include = FALSE, cache = FALSE}\nknitr::opts_chunk$set(error = TRUE)\nknitr::opts_chunk$set(cache=TRUE)\nknitr::opts_chunk$set(warning=FALSE)\nknitr::opts_chunk$set(message=FALSE)\n```\n\n\n\n\n```{r, echo=FALSE}\n\nrequire(rentrez)\nrequire(knitr)\nrequire(pander)\nrequire(ape)\nrequire(XML)\nrequire(rvest)\nrequire(httr)\n```\n\n\n## Scraping Indeed.com for Jobs\n\n\n- We first submit the form on indeed.com for a job description\n\n```{r, cache=TRUE}\n\nquery = \"data science\"\nloc = \"Providence\"\nsession <- html_session(\"http://www.indeed.com\")\nform <- html_form(session)[[1]]\nfilled_form <- set_values(form, q = query, l = loc)\n\nsession1 <- submit_form(session, filled_form )\n```\n\n--- \n\n\n//*[@id=\"pj_65b4bf8b84a3716f\"]/div[1]/div\n<div>\n$75,000 a year</div>\n#pj_65b4bf8b84a3716f > div.sjcl > div\n\n<div>\n$75,000 a year</div>\n\n\n## Salary Information \n\n\n\n```{r}\nsalary_links <- session1 %>%\n      html_nodes(css = \"#resultsCol li:nth-child(2) a\") %>%\n              html_attr(\"href\")\n\nsalary_links <- paste(session$url, salary_links, sep='')\n\nsalaries <- lapply(salary_links, . %>% \n                     read_html() %>% \n                     html_nodes(\"#salary_display_table .salary\") %>%\n                     html_text())\nsalary <- unlist(salaries)\n```\n\n--- \n\n## WEb Urls and Job Titles\n\n```{r}\n#weburl\ndata_sci_indeed <- session1\n\njob_title <- data_sci_indeed %>% \n  html_nodes(\"[itemprop=title]\") %>%\n  html_text()\n```\n\n\n---\n \n## Companies and Locations\n\n```{r}\n\ncompany <- data_sci_indeed %>%\n  html_nodes(\"[itemprop=hiringOrganization]\") %>%\n  html_text()\n\n\nlocation <- data_sci_indeed %>%\n  html_nodes(\"[itemprop=addressLocality]\") %>%\n  html_text()\n```\n\n---\n\n\n## Descriptions and Links\n\n```{r}\n\ndescription <- data_sci_indeed %>%\n  html_nodes(\"[itemprop=description]\") %>%\n  html_text()\n\n\nlink <- data_sci_indeed %>%\n  html_nodes(\"[itemprop=title]\") %>%\n  html_attr(\"href\")\nlink <- paste('[Link](https://www.indeed.com', link, sep='')\nlink <- paste(link, ')', sep='')\n```\n\n\n---\n\n## Jobs\n\n```{r, eval=FALSE}\nindeed_jobs <- data.frame(job_title,company,location,description,salary,link)\n\nlibrary(knitr)\nkable(indeed_jobs, format = \"html\")\n```\n\n \n---\n\n\n\n```{r, echo=FALSE}\nindeed_jobs <- data.frame(job_title,company,location,description,salary,link)\n\nlibrary(knitr)\nkable(indeed_jobs, format = \"html\")\n```\n",
+    "created" : 1493064864962.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1250994338",
+    "id" : "A71BDD86",
+    "lastKnownWriteTime" : 1493068488,
+    "last_content_update" : 1493068488514,
+    "path" : "C:/Users/adam_/Desktop/Chapter 11/11_6_Indeed.Rmd",
+    "project_path" : null,
+    "properties" : {
+        "last_setup_crc32" : "BABCDBC098de8508"
+    },
+    "relative_order" : 29,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

@@ -1,0 +1,7 @@
+"0","require(rentrez)"
+"0","require(knitr)"
+"0","require(pander)"
+"0","require(ape)"
+"0","require(XML)"
+"0","require(rvest)"
+"0","require(httr)"

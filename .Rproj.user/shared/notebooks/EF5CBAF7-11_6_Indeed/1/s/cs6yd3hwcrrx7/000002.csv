@@ -1,0 +1,6 @@
+"0","query = ""data science"""
+"0","loc = ""Providence"""
+"0","session <- html_session(""http://www.indeed.com"")"
+"0","form <- html_form(session)[[1]]"
+"0","filled_form <- set_values(form, q = query, l = loc)"
+"0","session1 <- submit_form(session, filled_form )"

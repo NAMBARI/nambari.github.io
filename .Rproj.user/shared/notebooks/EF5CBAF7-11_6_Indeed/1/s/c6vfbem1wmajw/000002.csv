@@ -1,0 +1,6 @@
+"0","company <- data_sci_indeed %>%"
+"0","  html_nodes(""[itemprop=hiringOrganization]"") %>%"
+"0","  html_text()"
+"0","location <- data_sci_indeed %>%"
+"0","  html_nodes(""[itemprop=addressLocality]"") %>%"
+"0","  html_text()"

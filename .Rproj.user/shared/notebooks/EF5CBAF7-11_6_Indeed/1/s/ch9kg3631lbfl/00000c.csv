@@ -1,0 +1,5 @@
+"0","indeed_jobs <- data.frame(job_title,company,location,description,salary,link)
+"
+"2","Error in data.frame(job_title, company, location, description, salary,  : 
+  arguments imply differing number of rows: 10, 0
+"
