@@ -1,14 +1,14 @@
 {
     "collab_server" : "",
-    "contents" : "---\nlayout: page\ntitle: PHP 2511: Applied Regression Analysis\n---\n\n\n\n<div class=\"main-explain-area jumbotron\">\n\n<div style=\"text-align: center;\">\n\n<strong  style=\"font-size: 125%;\">\nIntroduction to R Programming for Biostatistics\n\nData Management, Regression Modeling and Survival Analysis\n</strong>\n\nAdam Sullivan, Assistant Professor of Biostatistics, Brown University\n\nJoseph Hogan, Professor of Biostatistics, Brown University\n\nAnn Mwangi, Senior Lecturer, Moi University School of Medicine\n\n\n\n\n\n  <a class=\"btn btn-intro btn-lg\" href=\"http://php2560.com/syllabus/\">The Syllabus</a>\n</div>\n\n\n</div>\n\n\n\n\n\n\n<div class=\"main-explain-area jumbotron\">\n\n<div style=\"text-align: center;\">\n19-22 June 2017\nAMPATH / Moi University School of Medicine\nNoble Conference Center\nEldoret, Kenya\n\n\n</div>\n</div>\n",
+    "contents" : "---\nlayout: page\ntitle: PHP 2511: Applied Regression Analysis\n---\n\n\n\n<div class=\"main-explain-area jumbotron\">\n\n<div style=\"text-align: center;\">\n\n<strong  style=\"font-size: 125%;\">\nIntroduction to R Programming for Biostatistics\n<br>\nData Management, Regression Modeling and Survival Analysis\n</strong>\n<br>\nAdam Sullivan, Assistant Professor of Biostatistics, Brown University\n<br>\nJoseph Hogan, Professor of Biostatistics, Brown University\n<br>\nAnn Mwangi, Senior Lecturer, Moi University School of Medicine\n<br>\n\n\n\n\n  <a class=\"btn btn-intro btn-lg\" href=\"http://php2560.com/syllabus/\">The Syllabus</a>\n</div>\n\n\n</div>\n\n\n\n\n\n\n<div class=\"main-explain-area jumbotron\">\n<strong  style=\"font-size: 125%;\">\n<div style=\"text-align: center;\">\n19-22 June 2017\n<br>\nAMPATH / Moi University School of Medicine\n<br>\nNoble Conference Center\n<br>\nEldoret, Kenya\n\n\n</div>\n</strong>\n</div>\n",
     "created" : 1495566889604.000,
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "436011381",
+    "hash" : "2783392397",
     "id" : "B3630841",
-    "lastKnownWriteTime" : 1495571990,
-    "last_content_update" : 1495571990909,
+    "lastKnownWriteTime" : 1495572143,
+    "last_content_update" : 1495572143688,
     "path" : "C:/Users/adam_/Dropbox (Personal)/Brown/NAMBARI/website/index.md",
     "project_path" : "index.md",
     "properties" : {
