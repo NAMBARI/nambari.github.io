@@ -1,1 +1,1 @@
-This is the source for the **php2511** website.  The actual site is at http://brownbiostats.github.io/php2511/.
+This is the source for the **NAMBARI** website.  The actual site is at [http://namabari.github.io](http://namabari.github.io).

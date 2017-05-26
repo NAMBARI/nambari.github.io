@@ -39,7 +39,7 @@ footer-links-active:
   stackoverflow: false
 
 # How to display the link to the website in the footer
-url-pretty: "http://php2560"
+url-pretty: "https://nambari.github.io/"
 
 # --- Pagination options --- #
 paginate: 5
@@ -48,12 +48,12 @@ paginate_path: "/blog/page:num/"
 # --- Misc --- #
 
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-disqus: "php2560"
+disqus: ""
 
 
 
 # Fill in your Google Analytics ID to track your website using GA
-google_analytics: "UA-93049117-1"
+google_analytics: ""
 
 
 # --- Don't need to touch anything below here (but you can if you want) --- #
