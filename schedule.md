@@ -6,9 +6,9 @@ published: true
 
 
 
-# DAILY SCHEDULE (subject to change)
+## DAILY SCHEDULE (subject to change)
 
-## Monday 19/06/2017: Basics of Data in R!
+### Monday 19/06/2017: Basics of Data in R!
 
 | ------------- | ----------------------|
 | 8:00 - 9:00   |    Registration       |
@@ -21,7 +21,7 @@ published: true
 | 4:00          |               Tea | 
 
 
-## Tuesday 20/06/2017: Summarizing and Vizualizing Data in R!
+### Tuesday 20/06/2017: Summarizing and Vizualizing Data in R!
 
 | ------------- | ----------------------|
 | 9:00 - 10:30  |     Using `dplyr` |
@@ -34,7 +34,7 @@ published: true
 | 4:00          |               Tea | 
 
 
-## Wednesday 21/06/2017: Regression and Presenting Material in R
+### Wednesday 21/06/2017: Regression and Presenting Material in R
 
 | ------------- | ----------------------|
 | 9:00 - 10:30  |   Regressions in R |
