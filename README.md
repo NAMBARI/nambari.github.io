@@ -1,1 +1,1 @@
-This is the source for the **NAMBARI** website.  The actual site is at [http://namabari.github.io](http://namabari.github.io).
+This is the source for the **NAMBARI** website.  The actual site is at [https://namabari.github.io/](https://nambari.github.io/).

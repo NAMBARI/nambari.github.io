@@ -20,7 +20,7 @@ navbar-links:
   Home: "https://nambari.github.io/"
   Logistics: "https://nambari.github.io/logistics"
   Schedule: "https://nambari.github.io/schedule"
-
+  Intro to R: "https://nambari.github.io/Intro-to-R/"
 # --- Footer options --- #
 author:
   name: Adam J Sullivan
