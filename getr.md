@@ -10,7 +10,7 @@ Installing R
 =================
 
 <center>
-<img src="{{site.baseurl}}/img/r.png" style="height:100px">
+<img src="https://nambari.github.io/img/r.png" style="height:100px">
 </center>
 1.  Go to <https://cran.r-project.org/>
 2.  Click **Download R for Mac/Windows**.
@@ -44,7 +44,7 @@ Installing RStudio
 ==================
 
 <center>
-<img src="{{site.baseurl}}/img/RStudio-Ball.png" style="height:100px">
+<img src="https://nambari.github.io/img/RStudio-Ball.png" style="height:100px">
 </center>
 
 1.  Go to <https://www.rstudio.com/products/rstudio/download/>
