@@ -18,6 +18,7 @@ avatar: "/img/nambari.jpg"
 # List of links in the navigation bar
 navbar-links:
   Home: "https://nambari.github.io/"
+  Get R: "https://nambari.github.io/getr"
   Logistics: "https://nambari.github.io/logistics"
   Schedule: "https://nambari.github.io/schedule"
   Intro to R: "https://nambari.github.io/Intro-to-R/"
@@ -96,3 +97,4 @@ prose:
     - /css
     - /img
     - /js
+amba

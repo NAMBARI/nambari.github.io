@@ -6,7 +6,7 @@ published: true
 
 
 
-## DAILY SCHEDULE (subject to change)
+
 
 ### Monday 19/06/2017: Basics of Data in R!
 
@@ -17,32 +17,32 @@ published: true
 | 10:30 - 11:00 |       Tea | 
 | 11:00 - 12:45 |      Getting Data in R | 
 | 1:00 - 2:30   |          Lunch | 
-| 2:30 - 4:00   |   Case Study: Data Cleaning | 
+| 2:30 - 4:00   |   Case Study: Data Structures Practice | 
 | 4:00          |               Tea | 
 
 
-### Tuesday 20/06/2017: Summarizing and Vizualizing Data in R!
+### Tuesday 20/06/2017: Cleaning and Summarizing Data in R!
 
 | ------------- | ----------------------|
-| 9:00 - 10:30  |     Using `dplyr` |
-|               |     Creating Variables in R |
-|               |    Summarizing Data in R |
+| 9:00 - 10:30  |     Using `tidyr` |
+|               |     Cleaning and Transforming Data in R |
 | 10:30 - 11:00 |       Tea | 
-| 11:00 - 12:45 |      Graphics in R | 
+| 11:00 - 12:45 |     Using `dplyr` |
+|               |     Arranging and Summarizing Data in R in R | 
 | 1:00 - 2:30   |          Lunch | 
-| 2:30 - 4:00   |   Case Study: Exploration of Cleaned Data | 
+| 2:30 - 4:00   |   Case Study: Cleaning and Summarizing Data | 
 | 4:00          |               Tea | 
 
 
-### Wednesday 21/06/2017: Regression and Presenting Material in R
+### Wednesday 21/06/2017: Graphics and Regression in R
 
 | ------------- | ----------------------|
-| 9:00 - 10:30  |   Regressions in R |
+| 9:00 - 10:30  |   Graphics in R |
 | 10:30 - 11:00 |       Tea | 
-| 11:00 - 12:45 |      RMarkdown | 
+| 11:00 - 12:45 |      Regression in R | 
 |               | Presentations |
 | 1:00 - 2:30   |          Lunch | 
-| 2:30 - 4:00   |   Case Study: Statistical Write up and Presentation | 
+| 2:30 - 4:00   |   Case Study: Practicing Regressions in R | 
 | 4:00          |               Tea | 
 
 

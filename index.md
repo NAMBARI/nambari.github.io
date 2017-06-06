@@ -25,6 +25,8 @@ Joseph Hogan, Professor of Biostatistics, Brown University
 Ann Mwangi, Senior Lecturer, Moi University School of Medicine
 <br>
 <br>
+
+<a class="btn btn-intro btn-lg" href="https://nambari.github.io/getr">Get R Now!</a>
 <br>
 <br>
 
