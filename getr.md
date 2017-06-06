@@ -46,6 +46,7 @@ Installing RStudio
 <center>
 <img src="{{site.baseurl}}/img/RStudio-Ball.png" style="height:100px">
 </center>
+
 1.  Go to <https://www.rstudio.com/products/rstudio/download/>
 2.  Click **Download** under RStudio Desktop.
 3.  Click the link appropriate for your system (Linux, Mac, Windows)
