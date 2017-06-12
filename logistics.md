@@ -23,6 +23,6 @@ published: true
 
 ## Downloading R Software
 
-- Please be sure you have downloaded R software and completed the tutorials. 
+- Please be sure you have [downloaded R](https://nambari.github.io/getr) software and completed the tutorials. 
 - It also will be helpful to download RStudio, which provides a very helpful way to organize programs and output.  
 - You should install R first, then RStudio.
