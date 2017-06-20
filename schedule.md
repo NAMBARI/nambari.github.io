@@ -46,4 +46,16 @@ published: true
 | 4:00          |               Tea | 
 
 
+### Thursday 23/06/2017: Survival analysis in R
+
+| ------------- | ----------------------|
+| 8:45 - 10:15  |    What makes survival data different?   |
+| 10.15 - 10.30 | Group photo |
+| 10:30 - 11:00 |       Tea | 
+| 11:00 - 12.00 |    Plots and regression models for survival data | 
+| 12.00 - 12:30 |    Trainees complete workshop evaluations | 
+| 12:30 - 12:45 |    Closing |
+| 1:00 - 2:30   |          Lunch | 
+| 2:30 - 4:00   |   Consultations |
+| 4:00          |               Tea | 
 
