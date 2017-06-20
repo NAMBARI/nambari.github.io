@@ -49,7 +49,7 @@ published: true
 ### Thursday 23/06/2017: Survival analysis in R
 
 | ------------- | ----------------------|
-| 8:45 - 10:15  |    What makes survival data different?   |
+| 9:00 - 10:15  |    What makes survival data different?   |
 | 10.15 - 10.30 | Group photo |
 | 10:30 - 11:00 |       Tea | 
 | 11:00 - 12.00 |    Plots and regression models for survival data | 
