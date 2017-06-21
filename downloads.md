@@ -53,7 +53,9 @@ We have created a series of exercises that you will be completing every day. Ple
     b. Files labeled "*_print.pdf" can be printed and have 6 slides per page. 
 
 
+## Dowload HERS Data and Description of Variables
 
+1. [Download the Notes](https://github.com/NAMBARI/slides/archive/master.zip)
 
 ## Packages Needed for R
 
