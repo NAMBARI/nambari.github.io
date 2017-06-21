@@ -58,6 +58,23 @@ We have created a series of exercises that you will be completing every day. Ple
 1. [Download HERS Data](https://github.com/NAMBARI/nambari.github.io/raw/master/HERS_PHP2610.dta)
 2. [Download HERS Data Description](https://github.com/NAMBARI/nambari.github.io/raw/master/DEFINITIONS%20FOR%20VARIABLES%20IN%20HERS%20STUDY.docx)
 
+
+
+## Download GGPlot Exercise Code
+
+[GGPlot Walkthrough Example](https://github.com/NAMBARI/nambari.github.io/raw/master/ggplot_practice.Rmd)
+
+
+
+
+
+## Download Files that create the Slides
+
+[https://github.com/NAMBARI/exercises/archive/master.zip](https://github.com/NAMBARI/notes/archive/master.zip)
+
+
+
+
 ## Packages Needed for R
 
 Please copy the following into R and click enter:
