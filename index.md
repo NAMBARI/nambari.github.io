@@ -16,6 +16,8 @@ Data Management, Regression Modeling and Survival Analysis
 </strong>
 <br>
 <br>
+<br>
+<br>
 <a class="btn btn-intro btn-lg" href="https://goo.gl/forms/f1Nq8YxOdKcQrlDW2">Course Evaluation</a>
 <br>
 <br>
