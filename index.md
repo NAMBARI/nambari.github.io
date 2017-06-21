@@ -26,6 +26,11 @@ Ann Mwangi, Senior Lecturer, Moi University School of Medicine
 <br>
 <br>
 
+<a class="btn btn-intro btn-lg" href="https://goo.gl/forms/f1Nq8YxOdKcQrlDW2">Course Evaluation</a>
+<br>
+<br>
+
+
 <a class="btn btn-intro btn-lg" href="https://nambari.github.io/getr">Get R Now!</a>
 <br>
 <br>
