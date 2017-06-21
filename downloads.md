@@ -64,14 +64,16 @@ We have created a series of exercises that you will be completing every day. Ple
 
 [GGPlot Walkthrough Example](https://github.com/NAMBARI/nambari.github.io/raw/master/ggplot_practice.Rmd)
 
-
-
-
-
 ## Download Files that create the Slides
 
 [https://github.com/NAMBARI/exercises/archive/master.zip](https://github.com/NAMBARI/notes/archive/master.zip)
 
+## Materials for Survival Analysis (Day 4)
+
+[Lung Cancer Dataset (LungData.csv)](https://github.com/NAMBARI/nambari.github.io/raw/master/LungData.csv)
+[Link to dataset description](http://www.mayo.edu/research/documents/lunghtml/doc-10027247)
+[Associated Manuscript (PDF file)](https://github.com/NAMBARI/nambari.github.io/raw/master/jco.1994.12.3.601.pdf)
+[Presentation Slides (PDF, available evening of June 21)](https://github.com/NAMBARI/nambari.github.io/raw/master/D43-Survival.pdf)
 
 
 
