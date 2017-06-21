@@ -55,7 +55,8 @@ We have created a series of exercises that you will be completing every day. Ple
 
 ## Dowload HERS Data and Description of Variables
 
-1. [Download the Notes](https://github.com/NAMBARI/slides/archive/master.zip)
+1. [Download HERS Data](https://github.com/NAMBARI/nambari.github.io/raw/master/HERS_PHP2610.dta)
+2. [Download HERS Data Description](https://github.com/NAMBARI/nambari.github.io/raw/master/DEFINITIONS%20FOR%20VARIABLES%20IN%20HERS%20STUDY.docx)
 
 ## Packages Needed for R
 
