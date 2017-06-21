@@ -76,7 +76,7 @@ We have created a series of exercises that you will be completing every day. Ple
 
 [Associated Manuscript (PDF file)](https://github.com/NAMBARI/nambari.github.io/raw/master/jco.1994.12.3.601.pdf)
 
-[Presentation Slides (PDF, available evening of June 21)](https://github.com/NAMBARI/nambari.github.io/raw/master/D43-Survival.pdf)
+[Presentation Slides (PDF)](https://github.com/NAMBARI/nambari.github.io/raw/master/D43-Survival.pdf)
 
 
 
