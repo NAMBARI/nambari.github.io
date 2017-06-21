@@ -1,5 +1,0 @@
-"0","#weburl"
-"0","data_sci_indeed <- session1"
-"0","job_title <- data_sci_indeed %>% "
-"0","  html_nodes(""[itemprop=title]"") %>%"
-"0","  html_text()"
