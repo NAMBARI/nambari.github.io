@@ -66,7 +66,7 @@ We have created a series of exercises that you will be completing every day. Ple
 
 ## Download Files that create the Slides
 
-[https://github.com/NAMBARI/exercises/archive/master.zip](https://github.com/NAMBARI/notes/archive/master.zip)
+[Check Back Next Week]()
 
 ## Materials for Survival Analysis (Day 4)
 
